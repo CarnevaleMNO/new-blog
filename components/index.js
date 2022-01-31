@@ -1,6 +1,10 @@
 export {default as PostCard} from './PostCard';
 export {default as Categories} from './Categories';
 export {default as PostWidget} from './PostWidget';
+export {default as SearchBar} from './SearchBar';
 export {default as Header} from './Header';
 export {default as Layout} from './Layout';
 export {default as Nav} from './Nav';
+export {default as PostContent} from './post/PostContent';
+export {default as CommentsForm} from './post/CommentsForm';
+export {default as Comments} from './post/Comments';
